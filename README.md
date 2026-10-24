@@ -1,5 +1,8 @@
 # Knowledge Base Generator
 
+> 소속: [Gridex-kb](https://github.com/Gridex-kb) · 저장소: [Gridex-kb/knowledge-base-generator](https://github.com/Gridex-kb/knowledge-base-generator) · 공개
+
+
 **Build verified, Obsidian-compatible knowledge bases with GitHub, Google Cloud, and AI.**
 
 Knowledge Base Generator는 특정 분야의 자료를 단순히 모으는 도구가 아니라, **공식 원문 → 검증 → 구조화 → Obsidian 지식화 → GitHub 버전관리 → 공개 사이트 → 자동 업데이트 → 검색/RAG**까지 이어지는 범용 Knowledge Base 생성 프레임워크입니다.
